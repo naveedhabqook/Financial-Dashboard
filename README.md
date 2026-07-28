@@ -3,6 +3,8 @@
 ## 📖 Overview
 This project is an interactive **Financial Analytics Dashboard** built in **Power BI** using Microsoft's Financial Sample dataset. It provides a comprehensive analysis of sales, profit, cost of goods sold (COGS), and profit margins through interactive visualizations and filters, enabling users to explore business performance across countries, products, segments, and time periods.
 
+![Financial Analytics Dashboard](Dashboard-SS.png)
+
 ## ✨ Features
 
 - 📈 Total Sales KPI
